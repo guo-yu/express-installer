@@ -1,0 +1,28 @@
+{
+  "name": "express-installer",
+  "version": "0.0.1",
+  "description": "a configs installer middleware express-scaffold built-in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/express-installer.git"
+  },
+  "keywords": [
+    "express",
+    "install",
+    "installer",
+    "frame",
+    "middleware",
+    "config",
+    "configs"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/express-installer/issues"
+  },
+  "homepage": "https://github.com/turingou/express-installer"
+}
